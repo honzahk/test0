@@ -1,0 +1,20 @@
+{
+    "name": "test0",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "dev": "webpack"
+    },
+    "author": "hk",
+    "license": "ISC",
+    "dependencies": {},
+    "devDependencies": {
+        "nodemon-webpack-plugin": "4.4.4",
+        "ts-loader": "^8.0.18",
+        "ts-node": "^9.1.1",
+        "typescript": "^4.2.3",
+        "webpack": "^5.27.2",
+        "webpack-cli": "^4.5.0"
+    }
+}
